@@ -1,4 +1,10 @@
-# Exercicios-POO
+<h1 align="center">
+	<br>
+	<img width="400" src="poo.jpg">
+	<br>
+	<br>
+
+</h1>
 Resolução dos exercícios de POO com o professor Leo Murta
 
 ##Enunciado de cada exercício:
