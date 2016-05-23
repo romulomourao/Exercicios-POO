@@ -21,7 +21,7 @@ public class main {
         System.out.print("Tamanho do vetor que será criado: ");
         int tam = in.nextInt();
         in.nextLine();
-        
+        //Cria um vetor com o tamanho passado pelo usuario e logo em seguida é preenchido aleatoriamente
         int[] vetor = new int[tam];
         geraVetor(vetor);
         System.out.println("Aqui está o seu vetor de "+tam+" posições gerado aleatoriamente");
