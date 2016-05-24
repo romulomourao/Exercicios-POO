@@ -14,4 +14,5 @@ Resolução dos exercícios de POO com o professor Leo Murta
 ##Resolvidos
 - [Exercicio 12](/Exercicio-12)
 - [Exercicio 15](/Exercicio-15)
+- [Exercicio 17](/Exercicio-17)
 - [Exercicio 20](/Exercicio-20)
